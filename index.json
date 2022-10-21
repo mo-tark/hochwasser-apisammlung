@@ -1,1 +1,26 @@
-{}
+[
+    {
+        "name": "Pegel-Online API",
+        "office": "Wasserstraßen- und Schifffahrtsverwaltung",
+        "description": "Pegelstände der Messstellen des bundesweiten Messstellennetzes der Wasserstraßen- und Schifffahrtsverwaltung des Bundes.",
+        "documentationURL": "https://pegel-online.api.bund.dev",
+        "githubURL": "https://github.com/bundesAPI/pegel-online-api",
+        "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/pegel-online-api/main/openapi.yaml"
+    },
+    {
+        "name": "Hochwasserzentralen API",
+        "office": "LfU & LUBW",
+        "description": "Länderübergreifendes Hochwasserportal (LHP)",
+        "documentationURL": "https://bundesapi.github.io/hochwasserzentralen-api/",
+        "githubURL": "https://github.com/bundesAPI/hochwasserzentralen-api",
+        "rawOpenAPI": "https://raw.githubusercontent.com/bundesAPI/hochwasserzentralen-api/main/openapi.yaml"
+    },
+    {
+        "name": "THW Pegel API",
+        "office": "Technisches Hilfswerk (THW) ",
+        "description": "OpenAPI der API des Mobilen-Pegels (THW)",
+        "documentationURL": "https://t-huyeng.github.io/thw-pegel-api/",
+        "githubURL": "https://github.com/t-huyeng/thw-pegel-api",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/thw-pegel-api/main/openapi.yaml"
+    }
+]
