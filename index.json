@@ -22,5 +22,13 @@
         "documentationURL": "https://t-huyeng.github.io/thw-pegel-api/",
         "githubURL": "https://github.com/t-huyeng/thw-pegel-api",
         "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/thw-pegel-api/main/openapi.yaml"
+    },
+    {
+        "name": "WISKI-Web API",
+        "office": "Hessisches Landesamt für Naturschutz, Umwelt und Geologie (HLNUG)",
+        "description": "OpenAPI der API des WISKI Web (HLNUG)",
+        "documentationURL": "https://t-huyeng.github.io/WISKI-Web-api/",
+        "githubURL": "https://github.com/t-huyeng/WISKI-Web-api",
+        "rawOpenAPI": "https://raw.githubusercontent.com/t-huyeng/WISKI-Web-api/main/openapi.yaml"
     }
 ]
